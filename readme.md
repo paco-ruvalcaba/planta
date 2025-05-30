@@ -1,0 +1,1 @@
+Repositorio para el proyecto del diseño desde cero de una planta de clasificación de piezas utilizando OpenScad.
