@@ -5,3 +5,4 @@ Diseñar una planta clasificadora de piezas desde cero utilizando OpenSCAD y su 
 # Objetivos Particulares
 - [ ] Diseñar las piezas necesarias desde cero.
 - [ ] Armar con las piezas generadas la planta de clasificación.
+- [x] esto ya está
