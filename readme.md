@@ -6,3 +6,6 @@ Diseñar una planta clasificadora de piezas desde cero utilizando OpenSCAD y su 
 - [ ] Diseñar las piezas necesarias desde cero.
 - [ ] Armar con las piezas generadas la planta de clasificación.
 - [ ] Generar una animación simple del funcionamiento de la planta de clasificación.
+***
+# Instrucciones
+## 1. 
